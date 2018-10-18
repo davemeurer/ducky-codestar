@@ -17,4 +17,4 @@ artifacts:
     - 'appspec.yml'
     - 'template.yml'
     - 'scripts/*'
-    - 'target/ROOT.war'
+    - 'target/ducky-codestar-0.2.0.war'
